@@ -1,1 +1,1 @@
-hi i am learning github.
+Hi, this is my firt repository.
